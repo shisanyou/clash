@@ -295,7 +295,7 @@ config config_subscribe
 
 config config_subscribe
 	option enabled '1'
-	option name '牛逼-自动'
+	option name 'universe'
 	option address '【订阅地址复制并覆盖这里】'
 	option sub_ua 'clash.meta'
 	option sub_convert '1'
